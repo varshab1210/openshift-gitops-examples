@@ -13,7 +13,7 @@ spec:
       noProxy: internal.com
     env:
     - name: envkey
-      value: envvalue-2
+      value: envvalue
     gitProxy:
       httpProxy: http://gitproxy.com
       httpsProxy: https://gitproxy.com
